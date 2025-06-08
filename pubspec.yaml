@@ -1,0 +1,16 @@
+name: flutter_app_weathernow
+description: 'A simple Flutter weather application'
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^3.0.1  # latest as of 2025
+  http: ^1.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
