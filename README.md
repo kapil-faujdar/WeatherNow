@@ -1,16 +1,44 @@
-# flutter_app_weathernow
+# 🌤️ Flutter WeatherNow App
 
-A new Flutter project.
+A simple Flutter app to fetch and display real-time weather details using the OpenWeatherMap API.  
+Users can search for weather by city name, select from a dropdown of major cities, or (optionally) use their current location.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 👤 Developer Info
 
-A few resources to get you started if this is your first Flutter project:
+- **Name:** Kapil
+- **Roll Number:** 23510052
+- **Institute:** IIT Gandhinagar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Features
+
+✅ City-based weather search  
+✅ Dropdown selection of major Indian cities  
+✅ Current location (optional)  
+✅ Responsive UI  
+✅ Clean state management using `setState`  
+✅ Weather details include:
+- Temperature  
+- Weather Condition (e.g., Sunny, Rainy)  
+- Humidity  
+- Wind Speed  
+- City Name  
+
+---
+
+## 🔧 Tech Stack
+
+- Flutter (Dart)
+- OpenWeatherMap API
+- Material Design
+- `http` package for API calls
+
+---
+
+## 🚀 Run the App
+
+```bash
+flutter pub get
+flutter run
