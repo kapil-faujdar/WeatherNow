@@ -6,7 +6,7 @@ Users can search for weather by city name, select from a dropdown of major citie
 
 ## 👤 Developer Info
 
-- **Name:** Kapil
+- **Name:** Kapil Faujdar
 - **Roll Number:** 23510052
 - **Institute:** IIT Gandhinagar
 
