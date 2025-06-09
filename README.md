@@ -29,7 +29,7 @@ Users can search for weather by city name, select from a dropdown of major citie
 </table>
 ---
 
-https://github.com/user-attachments/assets/773ef022-2ac4-4edd-8a95-3b5cb45dca99
+https://github.com/user-attachments/assets/31c601a1-9fb7-4e31-bcff-84b3b8e8bd95
 
 ---
 
